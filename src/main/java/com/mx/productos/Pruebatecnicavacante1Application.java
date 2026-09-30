@@ -1,0 +1,13 @@
+package com.mx.productos;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Pruebatecnicavacante1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Pruebatecnicavacante1Application.class, args);
+	}
+
+}
